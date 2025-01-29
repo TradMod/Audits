@@ -7,12 +7,12 @@ For private audits or security consulting, please reach out to me on:
 
 ## Security Engagements
 | Date | Project | Category | Organization | Language | Report | Notes |
-|:-|:-|:-|:-|:-|:-:|
+|:-|:-|:-|:-|:-|:-:|:-:|
 | 2025-Jan | Undisclosed | CLOB | Undisclosed | Cairo | - | - |
 
 ## Public Audit Competitions
 | Date | Project | Category | Platform | Language | Report | Notes |
-|:-|:-|:-|:-|:-|:-:|
+|:-|:-|:-|:-|:-|:-:|:-:|
 | - | - | - | - | - | - | - |
 
 ## Testimonials & Feedbacks
