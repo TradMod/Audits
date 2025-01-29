@@ -6,14 +6,14 @@ For private audits or security consulting, please reach out to me on:
 - Twitter (X): [TradMod](https://x.com/TradMod)
 
 ## Security Engagements
-| Date | Project | Category | Organization | Language | Report |
+| Date | Project | Category | Organization | Language | Report | Notes |
 |:-|:-|:-|:-|:-|:-:|
-| 2025-Jan | Undisclosed | CLOB | Undisclosed | Cairo | - |
+| 2025-Jan | Undisclosed | CLOB | Undisclosed | Cairo | - | - |
 
 ## Public Audit Competitions
-| Date | Project | Category | Platform | Language | Report |
+| Date | Project | Category | Platform | Language | Report | Notes |
 |:-|:-|:-|:-|:-|:-:|
-| - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
 
 ## Testimonials & Feedbacks
 Soon InShaaAllah
